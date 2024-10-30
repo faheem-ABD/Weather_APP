@@ -1,0 +1,9 @@
+/Users/faheem/Downloads/Weather/Weather_APP/Backend/bin/Debug/net45/weather.exe.config
+/Users/faheem/Downloads/Weather/Weather_APP/Backend/bin/Debug/net45/weather.exe
+/Users/faheem/Downloads/Weather/Weather_APP/Backend/bin/Debug/net45/weather.pdb
+/Users/faheem/Downloads/Weather/Weather_APP/Backend/obj/Debug/net45/weather.csproj.AssemblyReference.cache
+/Users/faheem/Downloads/Weather/Weather_APP/Backend/obj/Debug/net45/weather.AssemblyInfoInputs.cache
+/Users/faheem/Downloads/Weather/Weather_APP/Backend/obj/Debug/net45/weather.AssemblyInfo.cs
+/Users/faheem/Downloads/Weather/Weather_APP/Backend/obj/Debug/net45/weather.csproj.CoreCompileInputs.cache
+/Users/faheem/Downloads/Weather/Weather_APP/Backend/obj/Debug/net45/weather.exe
+/Users/faheem/Downloads/Weather/Weather_APP/Backend/obj/Debug/net45/weather.pdb

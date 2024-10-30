@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/faheem/Downloads/Weather/Weather_APP/Backend/weather.csproj": {}
+  },
+  "projects": {
+    "/Users/faheem/Downloads/Weather/Weather_APP/Backend/weather.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/faheem/Downloads/Weather/Weather_APP/Backend/weather.csproj",
+        "projectName": "weather",
+        "projectPath": "/Users/faheem/Downloads/Weather/Weather_APP/Backend/weather.csproj",
+        "packagesPath": "/Users/faheem/.nuget/packages/",
+        "outputPath": "/Users/faheem/Downloads/Weather/Weather_APP/Backend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/faheem/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
